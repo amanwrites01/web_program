@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #d4fcd4; /* light green */
+}
+
+h1, h2 {
+    color: #2c3e50;
+}
+
+p {
+    font-size: 16px;
+    color: #333;
+}
+
+th, td {
+    text-align: left;
+    border-bottom: 1px solid #ccc;
+}
+
+a {
+    color: #0077cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
